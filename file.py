@@ -1,3 +1,3 @@
 
-def potat(a, b):
+def carot(a, b):
     return a + b
