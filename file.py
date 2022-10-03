@@ -1,3 +1,3 @@
 
-def tomat(a, b):
+def potat(a, b):
     return a + b
