@@ -1,2 +1,3 @@
-def sum(a, b):
+
+def tomat(a, b):
     return a + b
